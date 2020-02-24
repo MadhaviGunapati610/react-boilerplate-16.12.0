@@ -5,7 +5,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "name": "mern-exercise-tracker",
+  "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
